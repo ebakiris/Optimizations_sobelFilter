@@ -1,5 +1,4 @@
 # Optimizations_sobelFilter
-## This project made by Bakiris Emmanouil for the course High Performance Computing Systems of University of Thessaly during the academic year 2018-2019.
 
 Gained :
 
